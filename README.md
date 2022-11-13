@@ -9,3 +9,5 @@ The Goal of this project to make aesthetically pleasing, easilly accesible, and 
 ![image](https://user-images.githubusercontent.com/81984062/200211914-5af21ed9-bc82-4fc2-a769-f1a1bbc7ce1b.png)
 
 The Zero and Xiao 2040 fit into the same shell, the PCBs themselves are near identical barring the footprint. Moving forward I plan to adapt a few more devboards to this project, boards I'm looking into include the Tiny 2040, 2040 Stamp, and the Adafruit QT Py RP2040. I'm also working on a dedicated PCB that uses the RP2040 IC directly on the board, Idealy this can be ordered near fully assembled and the SC0914 (RP2040 IC) is all that needs to be soldered on.
+
+# Ordering PCBs
